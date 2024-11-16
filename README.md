@@ -46,5 +46,19 @@ List the standout features of your project. This is where you can highlight what
 ---
 
 ## **🔗 Acknowledgements**
-- Thank anyone who contributed to your project.
-- Mention tools, libraries, or resources that you used and found helpful.
+
+- <a href="https://reactjs.org/" target="_blank" style="margin-right: 30px; gap:20px;">
+  <img src="https://img.icons8.com/officel/40/000000/react.png" alt="React" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org/" target="_blank" style="margin-right: 30px; gap:20px;">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" style="margin-right: 30px; gap:20px;">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank" style="margin-right: 30px; gap:20px;">
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" style="gap:20px;">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+</a>
