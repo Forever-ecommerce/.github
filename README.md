@@ -41,7 +41,7 @@ List the standout features of your project. This is where you can highlight what
 
 - **Email**: hashim7abdullah7@gmail.com.com
 - **LinkedIn**: [Hashim Abdullah](in/hashim-abdullah-1a0b3a30b)
-- **GitHub**: [Hashim7Abdullah](https://github.com/your-profile)
+- **GitHub**: [Hashim7Abdullah](https://github.com/Hashim7abdullah)
 
 ---
 
