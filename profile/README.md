@@ -25,7 +25,6 @@ I developed Forever, a comprehensive and fully responsive e-commerce platform de
 ---
 
 ## **✨ Features**
-List the standout features of your project. This is where you can highlight what makes your project unique or powerful.
 
 	•	Tech Stack: Built with React.js for a dynamic frontend, Node.js and Express for a robust backend, and MongoDB for scalable data storage.
 	•	Multiple Payment Methods: Seamless integration with Stripe and Razorpay for secure transactions, plus a cash-on-delivery option to accommodate diverse customer preferences.
