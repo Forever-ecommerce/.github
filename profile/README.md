@@ -39,7 +39,7 @@ I developed Forever, a comprehensive and fully responsive e-commerce platform de
 ## **📬 Contact**
 
 - **Email**: hashim7abdullah7@gmail.com.com
-- **LinkedIn**: [Hashim Abdullah](in/hashim-abdullah-1a0b3a30b)
+- **LinkedIn**: [Hashim Abdullah](https://www.linkedin.com/in/hashim7abdullah)
 - **GitHub**: [Hashim7Abdullah](https://github.com/Hashim7abdullah)
 
 ---
