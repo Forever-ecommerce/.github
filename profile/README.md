@@ -20,7 +20,7 @@ React.js | Node.js | Express | MongoDB | Stripe & Razorpay Integration
 ---
 
 ## **🚀 Introduction**
-I developed Forever, a comprehensive and fully responsive e-commerce platform designed to provide a seamless online shopping experience. This project integrates advanced technologies and features to support both user and admin experiences, offering multiple payment options and a robust backend infrastructure.
+I have developed Forever, a comprehensive and fully responsive e-commerce platform designed to provide a seamless online shopping experience. This project integrates advanced technologies and features to support both user and admin experiences, offering multiple payment options and a robust backend infrastructure.
 
 ---
 
@@ -38,7 +38,7 @@ I developed Forever, a comprehensive and fully responsive e-commerce platform de
 
 ## **📬 Contact**
 
-- **Email**: hashim7abdullah7@gmail.com.com
+- **Email**: hashim7abdullah7@gmail.com
 - **LinkedIn**: [Hashim Abdullah](https://www.linkedin.com/in/hashim7abdullah)
 - **GitHub**: [Hashim7Abdullah](https://github.com/Hashim7abdullah)
 
